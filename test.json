@@ -1,5 +1,4 @@
-[
- { "title": "Test incident A", "source": "HTTP", "cause": "Bug", "evidence": "http://www.google.com/" },
- { "title": "Test incident B", "source": "UI", "cause": "ES", "evidence": "http://www.google.com/" },
- { "title": "Test incident C", "source": "HTTP", "cause": "Database", "evidence": "http://www.google.com/" }
-]
+"Test incident A" || "HTTP" || "Bug" || "http://www.google.com"
+"Test incident B" || "UI" || "Connectivity" || "http://www.google.com"
+"Test incident C" || "HTTP" || "ES" || "http://www.google.com"
+"Test incident D" || "UI" || "Db" || "http://www.google.com"
