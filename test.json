@@ -1,4 +1,4 @@
-"Test incident A" || "HTTP" || "Bug" || "http://www.google.com"
-"Test incident B" || "UI" || "Connectivity" || "http://www.google.com"
-"Test incident C" || "HTTP" || "ES" || "http://www.google.com"
-"Test incident D" || "UI" || "Db" || "http://www.google.com"
+"Test incident A","HTTP","Bug","http://www.google.com"
+"Test incident B","UI","Connectivity","http://www.google.com"
+"Test incident C","HTTP","ES","http://www.google.com"
+"Test incident D","UI","Db","http://www.google.com"
